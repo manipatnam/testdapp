@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x74F7D160BA49880e189e7ad0CC2C949A01A2dd3e",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x74f7d160ba49880e189e7ad0cc2c949a01a2dd3e",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "CryptoPugX Dog Pound",
+  "SYMBOL": "CPXDP",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cryptotigerx",
+  "SHOW_BACKGROUND": true
+}
